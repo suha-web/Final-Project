@@ -1,4 +1,7 @@
 # Final-Project
+
+ https://suha-web.github.io/Final-Project/
+
 The theme for my final project explore the evolving releationshp between nature and technology, a consistent topic that inspires my work. It is an interactive art piece containing four images arranged in the canvas: a heart, a brain, an eyeball, and blood. Each image responds to user interaction, having collision, when the mouse is clicked on the image a unique sound for each image is played. The audio was made from recording from technology. I recorded the sounds from a train, a washing machine, a ps4, a light switch, air conditioner, an artifical fireplace, a keyboard, a laptop and an extension.
 
 The connection between the human body and technology is explored. It poses the question if our body and senses are constantly shaped and influenced by modern day technology around us or is it the other way around. Our lives determining the development and make of this tech. How much has technology merged with our lives and bodies, linked togther, depened on each other. I prefer exploring the art side of coding showed in this project.
